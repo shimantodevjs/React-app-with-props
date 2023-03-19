@@ -21,7 +21,28 @@ body{
   border-bottom: 1px solid black;
 }
 
-.joke{
+.jokes-items{
     margin-bottom: 20px;
 }
 
+.reactions{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.reactions p{
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.comments img{
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.comments{
+    display: flex;
+    align-items: center;
+}
