@@ -25,6 +25,13 @@ body{
     margin-bottom: 20px;
 }
 
+.punchline__btn {
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
 .reactions{
     display: flex;
     align-items: center;
@@ -46,3 +53,4 @@ body{
     display: flex;
     align-items: center;
 }
+
